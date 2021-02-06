@@ -18,6 +18,9 @@ run_pcmci_example.py
 
 Example file for running PCMCI on the resulting PCA Varimax components.
 
+We add four csv files with indices for the selected seasonal PCA Varimax components (DJF, MAM, JJA, SON) to the folder. Accordingly, file names need to be adapted in run_pcmci_example.py depending on the season of interest. These indices match Supplementary Table 3 (p. 27) in Supplementary file: 
+
+https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-020-15195-y/MediaObjects/41467_2020_15195_MOESM1_ESM.pdf
 
 ---
 SOFTWARE DEPENDENCIES:
