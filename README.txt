@@ -60,7 +60,7 @@ After installing the relevant software:
 
 5) Use the resulting .bin files with the PCA Varimax components in the run_pcmci_example.py file one at a time. Either run individually on dataset (ensemble member), or adapt the time-slicing in the run_pcmci.py file. The results provide other .bin output files with the causal network data.
 
-If question arise contact Peer Nowack.
+If questions arise contact Peer Nowack.
 
 
 
